@@ -1,6 +1,6 @@
-#RECEITINHAS DA PARA FINAL DE SEMANA
+# RECEITINHAS DA PARA FINAL DE SEMANA #
 
-##Ordem das receitas
+## Ordem das receitas ##
 
  - BOLINHO DE CHUVA
  - RECEITA BATATA
